@@ -15,7 +15,7 @@ setup(
     license='MIT License',
     description='A Django app for handling wedding invites and registry.',
     long_description=README,
-    url='TBD',
+    url='https://django-wedding.readthedocs.io/en/latest/',
     author='Ian Thackston',
     author_email='ithackston@gmail.com',
     classifiers=[
